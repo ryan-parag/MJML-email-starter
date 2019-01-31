@@ -3,7 +3,7 @@
 This projects helps compile multiple MJML templates at once using:
 
 ```
-gulp.js
+gulp
 gulp-mjml
 mjml
 mjml-cli
