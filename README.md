@@ -13,7 +13,9 @@ MJML has been designed with responsiveness in mind. The abstraction it offers gu
 
 ## Where can I learn how to make an email using MJML?
 Start building responsive email with MJML. You’ll find in the documentation the full list of components available and their associated attributes.
+
 [Official Documentation](https://mjml.io/documentation)
+
 [MJML Resources](https://mjml.io/resources)
 
 ```
