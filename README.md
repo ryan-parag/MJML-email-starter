@@ -1,7 +1,5 @@
 # MJML Email Starter
 
-This projects helps compile multiple MJML templates at once using:
-
 ## What is MJML?
 MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
@@ -18,11 +16,19 @@ Start building responsive email with MJML. You’ll find in the documentation th
 
 [MJML Resources](https://mjml.io/resources)
 
+
+## Installation:
+This projects helps compile multiple MJML templates at once using:
+
 ```
 gulp
 gulp-mjml
 mjml
 mjml-cli
+```
+You can install the packages in the `package.json` using the following command:
+```
+npm install
 ```
 
 ## Folder Structure
