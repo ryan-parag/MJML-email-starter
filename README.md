@@ -1,5 +1,8 @@
 # MJML Email Starter
 
+## What is this project?
+This repository is a lightweight starter project that may help compile multiple MJML files into static HTML emails at once. Rather than continuously use the command line to compile each file, this project may help manage compile all the files located in the `src` folder.
+
 ## What is MJML?
 MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
